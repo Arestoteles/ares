@@ -1,2 +1,2 @@
 # ares
-Tool to send messages
+Tool to send messages, test
